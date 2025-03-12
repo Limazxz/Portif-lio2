@@ -5,6 +5,7 @@ import foto from "./img/perfil.jpg";
 import projeto1 from "./img/Captura de tela_12-3-2025_15177_www.figma.com.jpeg";
 import projeto2 from "./img/Captura de tela_12-3-2025_15166_www.figma.com.jpeg";
 import projeto3 from "./img/Captura de tela_12-3-2025_151639_www.figma.com.jpeg";
+import projeto4 from "./img/Captura de tela_12-3-2025_16502_www.figma.com.jpeg";
 import logolinkedin from "./assets/logo-linkedin 1.svg";
 import logo from "./assets/logo-whatsapp.svg";
 import logo2 from "./assets/logo-github 1.svg";
@@ -28,12 +29,14 @@ function App() {
           </p>
           <h2>E esses são meus projetos</h2>
         </Perfil>
-        <h1>Projeto 1: DEVFLIX</h1>
+        <h2>Projeto 1: DEVFLIX</h2>
         <img src={projeto2} alt="" />
-        <h1>Projeto 2: ProtMind</h1>
+        <h2>Projeto 2: ProtMind</h2>
         <img src={projeto3} alt="" />
-        <h1>Projeto 3: DoeJá</h1>
+        <h2>Projeto 3: DoeJá</h2>
         <img src={projeto1} alt="" />
+        <h2>Projeto 4: HealthLife</h2>
+        <img src={projeto4} alt="" />
         <footer>
           <p>
             <a
