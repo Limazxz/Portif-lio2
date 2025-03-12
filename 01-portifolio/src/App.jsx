@@ -19,6 +19,7 @@ function App() {
           <p>@limazxzn</p>
           <h3>Olá meu nome é Pedro</h3>
           <p>Estudante de Análise e Desenvolvimento de Sistemas</p>
+          <h1>Sobre Mim</h1>
           <p>
             Nascido e criado em jau eu sou o Pedro um Desenvolvedor Front-end e
             Back-end nascido em 17 de Março de 2008. Planejo cursar
