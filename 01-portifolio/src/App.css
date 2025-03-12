@@ -40,6 +40,19 @@
 .read-the-docs {
   color: #888;
 }
-.background {
-  background-image: url('./img/wpa.jpg');
+img{
+  width: 200px;
+  height:auto;
+  object-fit: cover;
+}
+h1{
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 1em;
+  font-family: 'Roboto', sans-serif;
+}
+footer{
+  margin-top: 2em;
+  font-size: 14px;
+  color: #888;
 }
